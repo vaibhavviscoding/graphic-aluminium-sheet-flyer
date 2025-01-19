@@ -1,7 +1,7 @@
 <h1>Aluminium Sheet Flyer</h1>
 
 <h2>Description</h2>
-This Figma file contains a design for an aluminum sheet flyer. The design emphasizes a [mention style e.g., minimalist, industrial, bold] aesthetic, utilizing clean lines and a limited color palette.
+This Figma file contains a design for an aluminum sheet flyer. The design emphasizes a aesthetic, utilizing clean lines and a limited color palette.
 <br />
 
 
